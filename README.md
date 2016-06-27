@@ -37,5 +37,3 @@ The entry point is `client/js/main.js`. browserify will analyse file dependencie
 bundle required files into `server/static/js/app.lib`. Library files will be excluded.
 
 The system will start a simple `flask` server. Goto http://127.0.0.1:8912/.
-
-
