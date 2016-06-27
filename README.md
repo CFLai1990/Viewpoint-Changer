@@ -1,4 +1,4 @@
-# tz Javascript Building System
+# Javascript Building System
 
 ## Features
 
